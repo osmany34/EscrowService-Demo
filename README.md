@@ -17,6 +17,10 @@
 ## Vision:
 **EscrowService** is designed to revolutionize how transactions are conducted in the digital age by leveraging the transparency and security of blockchain technology. Our vision is to create a world where trust is built into the very fabric of every transaction, enabling individuals and businesses to interact with confidence and peace of mind. By providing a secure and decentralized escrow service, EscrowX has the potential to transform industries that rely heavily on contractual agreements, such as freelancing, real estate, and online marketplaces. The project aims to be a key player in promoting the widespread adoption of decentralized finance (DeFi) solutions, driving innovation and creating new opportunities for all.
 
+## Demo
+
+[Demo Video](link_to_your_demo_video)
+
 ## Software Development Plan:
 1. **Smart Contract Development:**
    - **Variables:**
